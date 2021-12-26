@@ -7,4 +7,5 @@ Get started by reading [[README]]#.
 Other pages on this zettelkasten:
 
 - [[faq]]#
-    - [[apple_arcade_for_smack]]
+
+- [[apple_arcade_for_smack]]
