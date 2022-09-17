@@ -21,3 +21,5 @@ How can private repositories be published?
 
 [cname]: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-add-cname-file-cname
 [docker-tags]: https://hub.docker.com/r/sridca/neuron/tags?page=1&ordering=last_updated
+
+Skankin' it!
